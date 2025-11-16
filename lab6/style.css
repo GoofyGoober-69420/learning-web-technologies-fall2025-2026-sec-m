@@ -1,0 +1,9 @@
+#info {
+    color: blue;                
+    border: 1px solid blue;     
+    background-color: #f0f8ff;  
+    font-weight: bold;          
+    font-family: monospace;     
+    font-size: 12px;
+    padding: 1px 6px;
+}
